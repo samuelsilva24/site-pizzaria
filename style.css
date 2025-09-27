@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    color: #222;
+    background:#fffdf6 ;
+    line-height: 1.6;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
